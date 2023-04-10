@@ -1,0 +1,10 @@
+{
+    "name": "pxt-tropic",
+    "description": "A tropical fruit paradise.",
+    "dependencies": {
+        "core": "*",
+    },
+    "files": [
+        "tropic.ts",
+    ]
+}
